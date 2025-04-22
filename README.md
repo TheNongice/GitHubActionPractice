@@ -1,4 +1,4 @@
-# Github Actions Demo
+# Github Actions Demos
 
 Implement CI/CD with Github Actions. 
 
